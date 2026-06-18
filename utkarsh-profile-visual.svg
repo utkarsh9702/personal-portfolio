@@ -1,0 +1,20 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Utkarsh Kumar profile visual</title>
+  <desc id="desc">A professional abstract profile visual with code panels and initials.</desc>
+  <rect width="720" height="720" rx="56" fill="#101725"/>
+  <circle cx="538" cy="152" r="114" fill="#2DD4BF" fill-opacity=".18"/>
+  <circle cx="180" cy="556" r="146" fill="#60A5FA" fill-opacity=".16"/>
+  <path d="M166 178C166 153.699 185.699 134 210 134H510C534.301 134 554 153.699 554 178V542C554 566.301 534.301 586 510 586H210C185.699 586 166 566.301 166 542V178Z" fill="#151F31" stroke="#334155" stroke-width="2"/>
+  <path d="M166 211H554" stroke="#334155" stroke-width="2"/>
+  <circle cx="205" cy="173" r="8" fill="#F87171"/>
+  <circle cx="231" cy="173" r="8" fill="#FBBF24"/>
+  <circle cx="257" cy="173" r="8" fill="#34D399"/>
+  <rect x="220" y="264" width="280" height="280" rx="140" fill="#0F172A" stroke="#2DD4BF" stroke-width="6"/>
+  <text x="360" y="382" text-anchor="middle" fill="#E5F8F5" font-family="Inter, Arial, sans-serif" font-size="108" font-weight="800">UK</text>
+  <rect x="219" y="455" width="282" height="16" rx="8" fill="#60A5FA" fill-opacity=".7"/>
+  <rect x="250" y="489" width="220" height="12" rx="6" fill="#94A3B8" fill-opacity=".45"/>
+  <path d="M233 245H319" stroke="#60A5FA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M233 521H342" stroke="#2DD4BF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M423 245H487" stroke="#A78BFA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M476 521H487" stroke="#FBBF24" stroke-width="10" stroke-linecap="round"/>
+</svg>
