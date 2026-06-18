@@ -1,0 +1,25 @@
+{
+  "name": "utkarsh-portfolio-contact-api",
+  "version": "1.0.0",
+  "description": "Secure Express contact form API for Utkarsh Kumar's portfolio.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "pino": "^9.6.0",
+    "pino-http": "^10.4.0",
+    "resend": "^4.1.2",
+    "validator": "^13.12.0"
+  }
+}
